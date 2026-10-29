@@ -1,5 +1,5 @@
 name: punto_venta_dolores
-description: Punto de venta con SQLite local para negocios de Dolores Hidalgo.
+description: "Punto de venta con SQLite local para negocios de Dolores Hidalgo."
 publish_to: none
 version: 1.0.0
 
